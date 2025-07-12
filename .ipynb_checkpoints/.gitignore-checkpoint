@@ -1,4 +1,0 @@
-sd-v1-4.ckpt
-weight/aggregation_network.pt
-weight/mean_pca.npy
-weight/pca_model.joblib
