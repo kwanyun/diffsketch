@@ -1,0 +1,7 @@
+config:
+  experiment_name: "a mountain"
+  init_img: ""
+  prompt: "a photo of a switzerland mountain"
+  scale: 5.0
+  ddim_steps: 50
+  seed: 50

@@ -1,0 +1,7 @@
+config:
+  experiment_name: "japanese cartoon male"
+  init_img: ""
+  prompt: "a main character in japanese cartoon, simple background, male"
+  scale: 5.0
+  ddim_steps: 50
+  seed: 50
