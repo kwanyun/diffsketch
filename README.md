@@ -1,4 +1,4 @@
-## ___***[CVPR2025] DiffSketch: AStable Diffusion Feature Extraction for Sketching with One Example
+##  DiffSketch: Stable Diffusion Feature Extraction for Sketching with One Example
 
 <!-- ![](./assets/logo_long.png#gh-light-mode-only){: width="50%"} -->
 <!-- ![](./assets/logo_long_dark.png#gh-dark-mode-only=100x20) -->
