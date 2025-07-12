@@ -7,7 +7,7 @@
     conda env create -f environment.yaml
     conda activate diffsketch
 
-## : download [weight_files](https://drive.google.com/file/d/1SwZwatwU8sjVBSspwROIoTDBe7c_A9q_/view?usp=sharing) and put it on ./weights
+## : download [weight_files](https://drive.google.com/file/d/1zcjfofywsSB6zGVbZAPErA-ngGcrwE12/view?usp=drive_link) and put it on ./weights
 
 
 
