@@ -3,6 +3,8 @@
 <!-- ![](./assets/logo_long.png#gh-light-mode-only){: width="50%"} -->
 <!-- ![](./assets/logo_long_dark.png#gh-dark-mode-only=100x20) -->
 
+<img width="800" height="auto" alt="Graphical_Abstract" src="https://github.com/user-attachments/assets/d442a3c7-1e96-43de-9fe5-cc30ee29e8e2" />
+
 ## :gear: Install Environment via Anaconda (Recommended)
     conda env create -f environment.yaml
     conda activate diffsketch
